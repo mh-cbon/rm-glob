@@ -1,0 +1,8 @@
+hash: 753db1f60e9b41ae829266ea2ad4b6647f4fe62338ac5d755ef469c52c4aa7dc
+updated: 2016-06-16T17:42:55.182221555+02:00
+imports:
+- name: github.com/mattn/go-zglob
+  version: 2dbd7f37a45e993d5180a251b4bdd314d6333b70
+- name: github.com/urfave/cli
+  version: 01857ac33766ce0c93856370626f9799281c14f4
+devImports: []
