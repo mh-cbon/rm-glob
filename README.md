@@ -4,7 +4,7 @@ Rm globed files
 
 # Install
 
-You can grab a pre-built binary file in the [releases page](releases) 
+You can grab a pre-built binary file in the [releases page](./releases) 
 
 ```
 mkdir -p $GOPATH/github.com/mh-cbon
