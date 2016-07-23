@@ -1,4 +1,14 @@
 
+0.0.4
+
+  * travis: deploy key was incorrect
+
+  - mh-cbon <mh-cbon@users.noreply.github.com>
+
+-- mh-cbon <mh-cbon@users.noreply.github.com>; Sat, 23 Jul 2016 19:18:10 +0200
+
+
+
 0.0.3
 
   * packaging: add rpm/deb/msi support
