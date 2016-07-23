@@ -2,13 +2,26 @@
 
 Rm globed files
 
-# Install
+## Install
 
-You can grab a pre-built binary file in the [releases page](https://github.com/mh-cbon/rm-glob/releases) 
+Pick an msi package [here](https://github.com/mh-cbon/rm-glob/releases)!
 
+__deb/rpm__
+
+```sh
+curl -L https://raw.githubusercontent.com/mh-cbon/latest/master/install.sh \
+| GH=mh-cbon/rm-glob sh -xe
+# or
+wget -q -O - --no-check-certificate \
+https://raw.githubusercontent.com/mh-cbon/latest/master/install.sh \
+| GH=mh-cbon/rm-glob sh -xe
 ```
-mkdir -p $GOPATH/github.com/mh-cbon
-cd $GOPATH/github.com/mh-cbon
+
+__go__
+
+```sh
+mkdir -p $GOPATH/src/github.com/mh-cbon
+cd $GOPATH/src/github.com/mh-cbon
 git clone https://github.com/mh-cbon/rm-glob.git
 cd rm-glob
 glide install
