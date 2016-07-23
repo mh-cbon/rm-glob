@@ -1,0 +1,26 @@
+{
+  "product": "rm-glob",
+  "company": "mh-cbon",
+  "license": "LICENSE",
+  "upgrade-code": "2CDD12AA-6888-4738-858D-06C3254BCF9A",
+  "files": {
+    "guid": "E26F7829-13E1-4A21-AD05-BFE6375A3FC1",
+    "items": [
+      "rm-glob.exe"
+    ]
+  },
+  "env": {
+    "guid": "BEF6227D-E632-4E84-87A2-EFBBE1AF611C",
+    "vars": [
+      {
+        "name": "PATH",
+        "value": "[INSTALLDIR]",
+        "permanent": "no",
+        "system": "no",
+        "action": "set",
+        "part": "last"
+      }
+    ]
+  },
+  "shortcuts": {}
+}
