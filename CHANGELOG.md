@@ -1,5 +1,18 @@
 # Changelog - rm-glob
 
+### 0.0.4
+
+__Changes__
+
+- travis: deploy key was incorrect
+
+__Contributors__
+
+- mh-cbon
+
+Released by mh-cbon, Sat 23 Jul 2016
+______________
+
 ### 0.0.3
 
 __Changes__
