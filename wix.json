@@ -22,5 +22,11 @@
       }
     ]
   },
-  "shortcuts": {}
+  "shortcuts": {},
+  "choco": {
+    "description": "Rm globed files",
+    "project-url": "https://github.com/mh-cbon/rm-glob",
+    "tags": "rm",
+    "license-url": "https://github.com/mh-cbon/rm-glob/blob/master/LICENSE"
+  }
 }
