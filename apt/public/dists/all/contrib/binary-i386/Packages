@@ -1,0 +1,36 @@
+Package: rm-glob
+Priority: extra
+Section: unknown
+Installed-Size: 3.0 kB
+Maintainer: mh-cbon <mh-cbon@users.noreply.github.com>
+Architecture: i386
+Source: rm-glob
+Version: 0.0.5
+Filename: pool/contrib/r/rm-glob/rm-glob-0.0.5_386.deb
+Size: 849544
+MD5sum: 869df4c95f4fd9930cd7d5871b582784
+SHA1: 52377352723d328a0eddc58c7986e6b69b03d09b
+SHA256: 086d613b043bd8365cf76a0e4fcb5cf39370aa04e801a5910a126cf21ae1356f
+SHA512: 076c1dd836ea5889b85540c72ce27f767b50cdebb47a8352b912ee2b6574a2770e4ee98907ef03eff6c15bb20bf63d394f1b418e164a31301c2f3fdd37348b2d
+Description: Rm globed files
+Package-Type: deb
+Homepage: http://github.com/mh-cbon/rm-glob
+
+Package: rm-glob
+Priority: extra
+Section: unknown
+Installed-Size: 3.0 kB
+Maintainer: mh-cbon <mh-cbon@users.noreply.github.com>
+Architecture: i386
+Source: rm-glob
+Version: 0.0.4
+Filename: pool/contrib/r/rm-glob/rm-glob-0.0.4_386.deb
+Size: 849788
+MD5sum: af2db029060bceb046615b439361554d
+SHA1: 936c6a7e4a1b10808d937b6a3d60b3a170c20fe5
+SHA256: 579d67cf2d1f36d40152a899eb90fce9301728071eb35d3804179e973d1a589e
+SHA512: 3394d787d80aabba80ef3bd29548998696e146a4277087d59341e2035e26753ed4f44f9f616b5ffa5ac6f18afe31442b271bc2301c243ea4b296392fdecc58f0
+Description: Rm globed files
+Package-Type: deb
+Homepage: http://github.com/mh-cbon/rm-glob
+
