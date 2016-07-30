@@ -1,0 +1,6 @@
+[rm-glob]
+name=Rm globed files
+baseurl=https://mh-cbon.github.io/rm-glob/rpm/$basearch/
+enabled=1
+skip_if_unavailable=1
+gpgcheck=0
